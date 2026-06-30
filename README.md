@@ -1,3 +1,6 @@
+<img width="1312" height="872" alt="image" src="https://github.com/user-attachments/assets/57016835-ff40-4f11-91da-a420b649bf15" />
+
+
 # ChocoVista Commercial Performance & Business Intelligence Analysis
 
 ## 📌 Project Overview
